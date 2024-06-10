@@ -1,16 +1,8 @@
-# flutter_application_1
+Calculadora Flutter que faz cálculo do índice de diversidade segundo Shannon.
 
-A new Flutter project.
+APK: build\app\outputs\flutter-apk\app-release.apk (18.6MB).
 
-## Getting Started
+![print](https://github.com/isabellabg/CalculadoraDiversidade/assets/133895026/1111d4f9-a6b7-40d1-8835-1cf0edb2bbcb)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
